@@ -14,7 +14,7 @@
         "php": "^8.1",
         "symfony/serializer": "^6",
         "paragonie/random_compat": "*",
-        "elasticsearch/elasticsearch": "^7.11|^7.3"
+        "elasticsearch/elasticsearch": "^7.3"
     },
     "require-dev": {
         "elasticsearch/elasticsearch": "^7.0",
